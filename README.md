@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunstreaker 
 - 👀 I’m interested in new technologies and frameworks
-- 🌱 I’m currently learning open source technologies
+- 🌱 I’m currently learning open source technologies, java frameworks
 - 📫 How to reach me 
 -   suthagar.pp@gmail.com
 -   https://medium.com/@suthagar
