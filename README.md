@@ -4,11 +4,13 @@
 </p>
 <h1 align="center"> 👋 Hey, I’m @sunstreaker!</h1>
 
-- 🔭 Software Developer based out of India, currently working as a Full-Stack Engineer
-- 🌱 I’m currently learning open source technologies, java frameworks
+- 🔭 Software Developer, actively contributing
+- 🌱 techoholic intrested in open source technologies, java frameworks, Distributed Systems, Centralized Systems, Reducing System complexities, Agile software development, Evolutionary Architecture, Self-healing systems, Distributed System Design, Microservices, event-driven architecture patterns
 - 🌱 looking to contribute and collaborate in open source community
 - ⚡  enjoy cooking, music, reading, movies
 - 📫 mail: [📧 sunstreaker](mailto:suthagar.pp@gmail.com)
+
+
 
 <!---
 <table>
