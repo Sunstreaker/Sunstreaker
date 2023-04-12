@@ -1,5 +1,3 @@
-<h3 style="text-align: center;">👋 Hi, I’m @sunstreaker</h3>
-
 
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=Sunstreaker&label=Visitors&color=0fba03&style=flat" alt="sunstreaker" /> 
