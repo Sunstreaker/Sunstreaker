@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Sunstreaker 
+<h3 style="text-align: center;">👋 Hi, I’m @sunstreaker</h3>
+
+
 - 👀 I’m interested in new technologies and frameworks
 - 🌱 I’m currently learning open source technologies, java frameworks
 - 📫 How to reach me 
