@@ -5,7 +5,7 @@
 <h1 align="center"> 👋 Hey, I’m @sunstreaker!</h1>
 
 - 🔭 Software Developer, actively contributing
-- 🌱 techoholic intrested in open source technologies, java frameworks, Distributed Systems, Centralized Systems, Reducing System complexities, Agile software development, Evolutionary Architecture, Self-healing systems, Distributed System Design, Microservices, event-driven architecture patterns
+- 🌱 Intrested in open source technologies, java frameworks, Distributed Systems, Centralized Systems, Reducing System complexities, Agile software development, Evolutionary Architecture, Self-healing systems, Distributed System Design, Microservices, event-driven architecture patterns
 - 🌱 looking to contribute and collaborate in open source community
 - ⚡  enjoy cooking, music, reading, movies
 - 📫 mail: [📧 sunstreaker](mailto:suthagar.pp@gmail.com)
